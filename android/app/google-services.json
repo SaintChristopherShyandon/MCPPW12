@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "28916181527",
+    "project_id": "utslab-7ff84",
+    "storage_bucket": "utslab-7ff84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28916181527:android:4f9b4e8e80d95ef8a80a52",
+        "android_client_info": {
+          "package_name": "com.example.uts_lab_umnstory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACCCkRCJbS7dXH1Hfl2qaIEEAwUa7hD3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28916181527:android:9f6e61c8a589d75ba80a52",
+        "android_client_info": {
+          "package_name": "com.saintchristophershyandon.tugasw12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACCCkRCJbS7dXH1Hfl2qaIEEAwUa7hD3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
